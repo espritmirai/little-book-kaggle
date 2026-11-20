@@ -1,11 +1,11 @@
 # The Little Book of Kaggle 1st Place Solutions
 
-Kaggleの1位解法を読むための小さな本です。
+A compact guide to 1st place solutions from several Kaggle competitions.
 
-**[本を読む（PDF）](little_book.pdf)** / **[別のコンペで本を作る（設計書.md）](設計書.md)**
+- **English edition** ・ [Read the book (PDF)](little_book[en].pdf) / [Build a book for other competitions (design specification)](Design_Specification[en].md)
+- **Japanese edition** ・ [Read the book (PDF)](little_book[ja].pdf) / [Build a book for other competitions (design specification)](Design_Specification[ja].md)
 
----
-**収録コンペ**
+## Competitions
 
 1. Drawing with LLMs
 2. AI Agent Security - Multi-Step Tool Attacks
@@ -13,21 +13,14 @@ Kaggleの1位解法を読むための小さな本です。
 4. Kaggriculture
 5. ARC Prize 2026 - ARC-AGI-3
 
----
-**ライセンス**
+## License
 
-本書の表紙・本文・図と設計書の文章は、本プロジェクトが許諾できる範囲で
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
-の下で公開します。設計書に掲載したものを含む独自コードには MIT License を適用します。
-第三者の素材には、それぞれの利用条件が適用されます。
+The cover, text, and figures of both editions, along with the text of the design specifications, are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) to the extent that this project can grant those rights. The project's original code, including code in the design specifications, is licensed under the MIT License. Third-party materials are subject to their own terms.
 
-本書はKaggle・コンペ主催者・参加者による公式出版物ではありません。
+The book is published independently of Kaggle, the competition organizers, and the participants.
 
----
-**クレジット**
+## Credits
 
-表紙のデザインは、Alexandre Torres-Leguet 著
-『[The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl)』
-を参考にしました。
+The cover design was inspired by Alexandre Torres-Leguet's [*The Little Book of Reinforcement Learning*](https://github.com/alxndrTL/little-book-rl).
 
-原著 © 2026 Alexandre Torres-Leguet（[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）。
+Original work © 2026 Alexandre Torres-Leguet, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
